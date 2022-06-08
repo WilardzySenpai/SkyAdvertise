@@ -41,11 +41,8 @@ module.exports = async (client) => {
     console.log(Table_slash.toString())
     client.on("ready", async () => {
         // Register for all the guilds the bot is in
-        await client.application.commands.set(arrayOfSlashCommands);
+        await client.guilds.cache
+            .get("YOUR_GUILD_ID")
+        .commands.set(arrayOfSlashCommands);
     });
-
-  const { mongooseConnectionString } = require('../config.json')
-    if (!mongooseConnectionString) return;
-
-    mongoose.connect(mongooseConnectionString).then(() => console.log('Connected to mongodb'));
 };
