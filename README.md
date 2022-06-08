@@ -19,4 +19,3 @@ A Discord advertisement Bot for SkyAnime advertise channel and to support NinoMu
 - Invite NinoMusic without SlashCommands [Click here.](https://discord.com/oauth2/authorize?client_id=975028020198928404&permissions=3457088&scope=bot)
 - Invite NinoMusic with SlashCommands [Click here.](https://discord.com/oauth2/authorize?client_id=975028020198928404&permissions=3457088&scope=bot%20applications.commands)
 - Vote Nino and Give us Rating [Click here](https://top.gg/bot/975028020198928404/vote)
-[![Discord Bots](https://top.gg/api/widget/975028020198928404.svg)(https://top.gg/bot/975028020198928404)
