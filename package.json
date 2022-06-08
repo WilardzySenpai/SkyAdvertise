@@ -1,0 +1,28 @@
+{
+  "name": "Advertise",
+  "version": "1.0.0",
+  "description": "testing bot for hachiki sheeeeesh",
+  "main": "index.js",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.3",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.7.0",
+    "dotenv": "8.6.0",
+    "express": "^4.18.1",
+    "glob": "^8.0.3",
+    "ms": "^2.1.3",
+    "ms-prettify": "^1.3.2",
+    "quick.db": "^7.1.3",
+    "util": "^0.12.4",
+    "y": "^0.3.2"
+  },
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WilardzySenpai/Advertise"
+  },
+  "author": "Hachiki",
+  "license": "ISC"
+}
