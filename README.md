@@ -18,6 +18,9 @@ A Discord advertisement Bot for SkyAnime advertise channel and to support NinoMu
 ## Token
 - To get Bot token click this [link](https://discord.com/developers/applications/) and make an application
 
+### Replit
+[Click here.](https://repl.it/github/WilardzySenpai/SkyAdvertise)
+
 # Join and Invite Nino!
 - Support Server [Click here.](https://discord.gg/DhszDJGp7g)
 - Invite NinoMusic without SlashCommands [Click here.](https://discord.com/oauth2/authorize?client_id=975028020198928404&permissions=3457088&scope=bot)
