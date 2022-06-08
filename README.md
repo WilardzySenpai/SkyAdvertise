@@ -1,6 +1,5 @@
 <h1 align="center">
   <a href="#"><img src="https://i.imgur.com/3DKmQm6.jpg" alt="SkyAdvertise"></a>
-  Advertise
 </h1>
 
 # SkyAdvertise
